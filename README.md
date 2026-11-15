@@ -1,6 +1,6 @@
 # Business Partner B2+ — Zvenyhora (dairy)
 
-Business Partner B2+ adapted for a dairy producer: shoppers, retail chains, production.
+Business Partner B2+ adapted for Zveni Hora (Savencia group): hard cheese, shoppers, retail chains, HoReCa.
 
 - `index.html` — Contents (client mode)
 - `lessons/<lesson>/all/` — lesson pages
